@@ -1,13 +1,14 @@
 # -IPL-2026-Analytics
 End-to-end IPL 2026 analytics project — ETL, SQL, Python
-# 🏏 IPL Squad Intelligence & Team Building Analytics
+# 🏏 IPL Squad Performance Analytics
 
 ## About This Project
 
-I'm a fresher learning data analytics and this is one of my 
-first end-to-end projects. The idea was simple — instead of 
-working on a generic dataset, I wanted to build something that 
-felt like real analyst work.
+I'm a fresher learning data analytics and  built this project 
+to go beyond tutorials and work on 
+something that felt like actual analyst work.
+The idea was simple — instead of working on a generic dataset, 
+I wanted to build something that felt like real analyst work.
 
 So I picked a problem: how does an IPL franchise decide who 
 to buy at auction? I sourced real ball-by-ball data, built 
